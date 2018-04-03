@@ -1,0 +1,10 @@
+Estória de Usuário 
+Nível de prioridade 1 a 4
+
+Como um usuário, quero da inicio ao jogo para jogar. Nivel de prioridade de 1.
+Como um usuário, quero escolher com quem jogar para jogar um partida contra maquina ou um advérsario (oponente). Nivel de prioridade de 2.
+Como um usuário, quero olhar o resultado no fim da partida para ver quem venceu. Nivel de prioridade de 3.
+Como um usuário, quero poder continuar uma nova partida para permacer jogando o jogo. Nivel de prioridade de 3.
+Como um usuário, quero poder encerra partida para sair do jogo. Nível de prioridade de 3.
+Como um usuário, quero poder vê as jogadas realizadas para saber qual jogada o usuário poderá jogar. Nivel de prioridade de 4.
+
